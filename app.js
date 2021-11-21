@@ -401,7 +401,7 @@ async function startsBaileysBot() {
               },
               type: 1,
             },
-          ], {quoted: mek});
+          ], {quoted: ftroli});
         break
         case 'meme':
           if (!isRegister) return registuser()
